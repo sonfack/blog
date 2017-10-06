@@ -13,8 +13,12 @@ Go to the server/blog/application/config/database.php <br>
   ....<br>
   put you database host name, database user and password<br>
 
+Upload the database in the repos : blog.sql<br>
+
 
 
 Launch the application <br>
   Open you web browser and enter the url : server/blog/index.php/blog/<br>
+  
+ 
   
