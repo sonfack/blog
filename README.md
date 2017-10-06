@@ -15,13 +15,14 @@ Go to the server/blog/application/config/database.php <br>
 
 Upload the database in the repos : blog.sql<br>
 
+Create users and test the blog<br>
 Login as admin : <br>
 server/blogfinal/index.php/users/auth/login<br>
 login : admin@admin.com<br>
 pwd: tttttttt<br>
 
 Launch the application <br>
-  Open you web browser and enter the url : server/blog/index.php/blog/<br>
+  Open you web browser and enter the url : server/blogfinal/index.php/blog/<br>
   
  
   
